@@ -36,6 +36,16 @@ customer behavior, and growth trends.
 - High-value customers generate most sales.
 - Growth analysis highlights opportunities for improvement.
 
+- Business Recommendations
+
+- Focus marketing and inventory efforts on top-performing products.
+
+- Run promotional campaigns during low-growth periods.
+
+- Apply upselling and cross-selling strategies to increase average order value.
+
+- Use the dashboard for continuous performance monitoring and decision-making.
+
 ##  Tools Used
 - Power BI
 - Power Query
