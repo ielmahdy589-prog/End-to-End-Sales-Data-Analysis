@@ -4,11 +4,11 @@
 This project presents an end-to-end Power BI dashboard designed to analyze sales performance,
 customer behavior, and growth trends.
 
-## 🗂 Dataset
+##  Dataset
 - Source: Kaggle
 - Tables: Sales, Customers, Products, Date Table
 
-## 🛠 Data Preparation
+##  Data Preparation
 - Data cleaning using Power Query
 - Created a Date Table
 - Built a star schema data model
