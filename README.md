@@ -1,52 +1,74 @@
-#  Sales Performance Dashboard (Power BI)
+# Data Analysis Portfolio
 
-##  Project Overview
-This project presents an end-to-end Power BI dashboard designed to analyze sales performance,
-customer behavior, and growth trends.
+This repository showcases end-to-end data analysis projects using **Power BI**, **Python**, and **SQL**.
+Each project focuses on extracting business insights from sales data and presenting them in a clear, decision-oriented way.
 
-##  Dataset
-- Source: Kaggle
-- Tables: Sales, Customers, Products, Date Table
 
-##  Data Preparation
-- Data cleaning using Power Query
-- Created a Date Table
-- Built a star schema data model
+ # Project 1: Sales Dashboard (Power BI)
 
-##  Key KPIs
-- Total Sales
-- Total Orders
-- Total Profit
-- Year-over-Year Growth
+Tools: Power BI, Power Query, DAX  
 
-##  Dashboard Pages
+Description:
+An interactive sales dashboard built to track key business KPIs and performance trends.
 
-### Executive Summary
-![Executive Summary](dashboard_1_executive.png)
+# Key Features:
+- Total Sales, Total Profit, Total Orders
+- Monthly Sales Trend
+- Top 10 Sub-Categories
+- Profitability Analysis
+- Dynamic filters by date, region, and category
 
-### Sales Details
-![Sales Details](dashboard_2_sales.png)
+Outcome:  
+Provides management with a clear overview of sales performance and loss areas.
 
-### Customers & Growth
-![Customers & Growth](dashboard_3_customers.png)
 
-##  Key Insights
-- Sales trends reveal peak periods and seasonality.
-- Top products contribute a large share of total revenue.
-- High-value customers generate most sales.
-- Growth analysis highlights opportunities for improvement.
 
-- Business Recommendations
+ # Project 2: Sales Analysis (Python)
 
-- Focus marketing and inventory efforts on top-performing products.
+Tools: Python, Pandas, Matplotlib  
 
-- Run promotional campaigns during low-growth periods.
+Description:
+Exploratory Data Analysis (EDA) performed on sales data to uncover trends and patterns.
 
-- Apply upselling and cross-selling strategies to increase average order value.
+# Key Features:
+- Data cleaning and validation
+- Sales and profit analysis
+- Time series analysis
+- Top-performing products and categories
+- Visualization of business metrics
 
-- Use the dashboard for continuous performance monitoring and decision-making.
+Outcome: 
+Supports data-driven decisions through clear visual insights.
 
-##  Tools Used
-- Power BI
-- Power Query
-- DAX
+
+# Project 3: Sales Analysis (SQL – PostgreSQL)
+
+Tools: PostgreSQL, SQL  
+
+Description:
+Business analysis and data validation using SQL queries on a relational database.
+
+# Key Features:
+- Data quality checks (nulls, duplicates, negative values)
+- Core KPIs (sales, profit, orders)
+- Monthly sales trend
+- Month-over-Month (MoM) growth
+- Profit and loss analysis
+
+Outcome:
+Demonstrates strong SQL skills and understanding of business logic.
+
+
+
+  # Skills Demonstrated
+- Data Cleaning & Validation
+- Exploratory Data Analysis (EDA)
+- Business KPIs & Growth Analysis
+- Data Visualization
+- SQL & Python Integration
+- Dashboard Design
+
+
+# Author
+Data Analyst | Python | SQL | Power BI
+
